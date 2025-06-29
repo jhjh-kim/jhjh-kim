@@ -2,7 +2,6 @@
 My name is Jinho Kim.
 I have hands-on experience in quantization, long-tail learning, and distributed training.
 I'm especially interested in making AI models more interpretable, robust, and efficient in both training and inference.
-Besides tech, I've been focusing on addressing educational inequality and serving my local community to teaching programming.
 
 ### 🚀 Tech Stack
 - **Languages:** Python, C/C++
