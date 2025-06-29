@@ -1,4 +1,17 @@
 ## Hi there 👋
+My name is Jinho Kim.
+I have hands-on experience in quantization, long-tail learning, and distributed training.
+I'm especially interested in making AI models more interpretable, robust, and efficient in both training and inference.
+
+### 🚀 Tech Stack
+- **Languages:** Python, C/C++
+- **Frameworks:** PyTorch, LangChain, FastAPI
+- **Tools:** Docker, Git, Linux
+
+### 💡 Fun Facts
+- 🏃‍♂️ Completed my first 10K race — clocked in at 1:11.  
+- 🤝 Love brainstorming with new people to spark fresh ideas.
+- 🧠 Former psychology major. Connecting the dots - I'm also interested in brain-computer interfaces (BCI) and brain-inspired AI.
 
 <!--
 **jhjh-kim/jhjh-kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
