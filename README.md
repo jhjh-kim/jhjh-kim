@@ -11,6 +11,7 @@ I'm especially interested in making AI models more interpretable, robust, and ef
 ### 💡 Fun Facts
 - 🏃‍♂️ Completed my first 10K race — clocked in at 1:11.  
 - 🤝 Love brainstorming with new people to spark fresh ideas.
+- 🌏 I speak Korean, English, and Japanese, and love learning languages to connect with people around the world.
 - 🧠 Former psychology major. Connecting the dots - I'm also interested in brain-computer interfaces (BCI) and brain-inspired AI.
 
 <!--
