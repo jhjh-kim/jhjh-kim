@@ -4,7 +4,7 @@ I have hands-on experience in quantization, long-tail learning, and distributed 
 I'm especially interested in making AI models more interpretable, robust, and efficient in both training and inference.
 
 ### 🚀 Tech Stack
-- **Languages:** Python, C/C++
+- **Languages:** Python, C/C++, SQL
 - **Frameworks:** PyTorch, LangChain, FastAPI
 - **Tools:** Docker, Git, Linux
 
