@@ -1,6 +1,6 @@
 ## Hi there 👋
 My name is Jinho Kim.
-I have hands-on experience in quantization, long-tail learning, and distributed training. \\
+I have hands-on experience in quantization, long-tail learning, and distributed training. \newline
 I'm especially interested in making AI models with real-world impact that benefit marginalized communities.
 
 ### 🚀 Tech Stack
